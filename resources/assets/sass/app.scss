@@ -10,3 +10,22 @@
 
 //selectize
 @import "~selectize/dist/css/selectize.bootstrap3.css";
+
+ul.nav>li>a{
+  color : white !important;
+}
+
+a.dropdown-toggle{
+  color : white !important;
+}
+.navbar-brand{
+  color : white !important;
+}
+
+.panel-heading{
+  color : white !important;
+}
+
+.nav .navbar-nav{
+  color : white;
+}
